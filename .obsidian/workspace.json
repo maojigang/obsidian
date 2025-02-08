@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "8c3cefee045e116c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "716b2e42f07cce75",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -166,13 +150,23 @@
               "icon": "lucide-list",
               "title": "README 的大纲"
             }
+          },
+          {
+            "id": "4bf95211c7399e45",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 573.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +175,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
+      "obsidian-git:Open Git source control": false,
       "command-palette:打开命令面板": false
     }
   },
   "active": "7744923070e7d6eb",
   "lastOpenFiles": [
-    "欢迎.md",
-    "README.md"
+    "2025-02-08.md",
+    "README.md",
+    "欢迎.md"
   ]
 }
